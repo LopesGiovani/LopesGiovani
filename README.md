@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lopeszz
 - 👀 I’m interested in web programing
-- 🌱 I’m currently learning Python, Javascript, Html and Sql
+- 🌱 I’m currently learning Python, Javascript, PHP, Java, SQL
 - 💞️ I’m looking to collaborate on with what you need
 - 📫 I'm from Brazil 🇧🇷
  <!---
