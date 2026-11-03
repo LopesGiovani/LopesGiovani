@@ -16,11 +16,16 @@ Sou **Software Engineer Trainee L3 na LEVTY** e estudante de **Sistemas de Infor
 
 ## Minha caixa de ferramentas
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,py,ts,angular,react,postgres,docker&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,py,ts,angular,react,postgres,docker&amp;theme=light" />
-  <img src="https://skillicons.dev/icons?i=java,spring,py,ts,angular,react,postgres,docker&amp;theme=dark" width="440" alt="Java, Spring, Python, TypeScript, Angular, React, PostgreSQL e Docker" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+</p>
 
 **Backend e integrações:** Java, Spring Boot, Python, Flask, Node.js, REST e SOAP/XML.<br />
 **Frontend e dados:** TypeScript, JavaScript, Angular, React, Next.js, PostgreSQL, MySQL e Elasticsearch.<br />
@@ -31,14 +36,14 @@ Sou **Software Engineer Trainee L3 na LEVTY** e estudante de **Sistemas de Infor
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LopesGiovani/BetUFU">BETUFU ↗</a></h3>
+      <h3><a href="https://github.com/LopesGiovani/BetUFU">BETUFU</a></h3>
       <p><code>Em desenvolvimento</code></p>
       <p>Palpites em competições universitárias, como as Olimpíadas UFU, com proposta de competição social usando créditos virtuais, sem dinheiro real ou prêmios econômicos. Projeto independente, sem vínculo oficial com a UFU.</p>
       <p>Monólito modular, autenticação OIDC/BFF e desenvolvimento com Codex e Gemini.</p>
       <p><strong>Java · Spring Modulith · Angular · PostgreSQL</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LopesGiovani/Finsfera">Finsfera ↗</a></h3>
+      <h3><a href="https://github.com/LopesGiovani/Finsfera">Finsfera</a></h3>
       <p><code>Produto full stack</code></p>
       <p>SaaS multi-tenant para agências de mídias sociais que idealizei e desenvolvi, com ordens de serviço, integração com Instagram e autorização granular.</p>
       <p>Testes com Jest e Playwright, integração contínua e implantação na Vercel.</p>
@@ -47,14 +52,14 @@ Sou **Software Engineer Trainee L3 na LEVTY** e estudante de **Sistemas de Infor
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LopesGiovani/Nexora">Nexora ↗</a></h3>
+      <h3><a href="https://github.com/LopesGiovani/Nexora">Nexora</a></h3>
       <p><code>Backend Java</code></p>
       <p>API REST de agendamentos com autenticação JWT, Spring Security, migrações Flyway e documentação OpenAPI.</p>
       <p>Um projeto de aprofundamento em segurança, organização de APIs e persistência.</p>
       <p><strong>Java · Spring Boot · PostgreSQL</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Morais-Felipe/Live-Auction-System">Live Auction System ↗</a></h3>
+      <h3><a href="https://github.com/Morais-Felipe/Live-Auction-System">Live Auction System</a></h3>
       <p><code>Projeto acadêmico em equipe</code></p>
       <p>Sistema de leilões em tempo real em que atuei como coordenador técnico e desenvolvedor Java em uma equipe de cinco integrantes.</p>
       <p>Servidor TCP multithread, comunicação JSON, sincronização e interface Swing.</p>
